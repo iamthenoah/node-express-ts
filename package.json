@@ -1,5 +1,7 @@
 {
-  "name": "cm-api",
+  "name": "node-express-ts",
+  "description": "Boilerplate for an Express app in TS.",
+  "author": "iamthenoah",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
